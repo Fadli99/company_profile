@@ -8,6 +8,8 @@ const content = `# About Kassen Kyocera
 
 ![Kassen Kyocera](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
 
+<img width="250" alt="kassen kyocera" src="https://github.com/user-attachments/assets/dab4e885-9279-48a0-a028-62d961c76656">
+
 Kassen Kyocera merupakan pelopor dalam menyediakan solusi pencetakan serbaguna yang menggabukan kualitas tinggi, teknologi terkini, dan kemudahan penggunaan untuk memenuhi kebutuhan bisnis perusahaan dan pribadi anda. Brand yang kami tawarkan yaitu printer merk Kyocera yang berasal dari JAPAN.
 
 APA YANG KAMI TAWARKAN
