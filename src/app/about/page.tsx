@@ -9,34 +9,33 @@ const content = `# Tentang Kassen Kyocera
 ![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
 
 Kassen Kyocera merupakan pelopor dalam menyediakan solusi pencetakan serbaguna yang menggabukan kualitas tinggi, teknologi terkini, dan kemudahan penggunaan untuk memenuhi kebutuhan bisnis perusahaan dan pribadi anda. Brand yang kami tawarkan yaitu printer merk Kyocera yang berasal dari JAPAN.
-const content = `# Apa Yang Kami Tawarkan
-So I took a leap of faith, quit my cushy job in Singapore, and decided to see the world on my own terms. No more stuffy meetings or rigid schedules – just me, my backpack, and an open road ahead.
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public)
+APA YANG KAMI TAWARKAN
+Kassen Kyocera mengkhususkan diri dalam [brand printer merk Kyocera, misalnya: "perangkat cetak, solusi pemrosesan dokumen, dan perangkat keras teknologi informasi"]. Produk kami dirancang dengan memadukan teknologi terbaru dengan desain yang ergonomis, memastikan kinerja optimal dan kenyamanan pengguna.
 
-This blog is where I'll be documenting my travels, sharing my experiences, and hopefully inspiring others to follow their wanderlust. From trekking through remote villages to savoring local cuisines, I'm on a mission to immerse myself in different cultures and create memories that will last a lifetime.
+KOMITMEN KAMI
 
-But this journey isn't just about checking off destinations from a bucket list. It's about self-discovery, personal growth, and finding the courage to live life on my own terms. I'll be honest and raw, sharing the highs and lows, the moments of pure bliss and the inevitable challenges that come with solo travel.
+Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan pelanggan yang tak tertandingi. Melalui pendekatan yang berfokus pada pelanggan, kami berusaha untuk memahami dan memenuhi kebutuhan unik setiap klien kami, sambil menjaga standar etika dan keberlanjutan yang tinggi dalam setiap aspek operasi kami.
 
-So join me on this adventure, and let's explore the world together! Who knows, maybe my stories will inspire you to take that leap of faith and pursue your own dreams, whatever they may be.
+TIM KAMI
 
-Let's go on an adventure!
+Tim kami terdiri dari para profesional yang berdedikasi dan berpengalaman di bidangnya masing-masing. Kami percaya bahwa keberhasilan kami terletak pada orang-orang yang membuatnya terjadi, dan kami berinvestasi dalam pengembangan profesional dan kesejahteraan mereka.
 
-Love,
+HUBUNGI KAMI
 
-Samantha`;
+Untuk informasi lebih lanjut tentang produk dan layanan kami, atau untuk menjalin kemitraan dengan kami, jangan ragu untuk menghubungi tim kami di nomor whatsapp kami. Kami siap membantu Anda dengan solusi teknologi terbaik yang sesuai dengan kebutuhan Anda.`;
 
 export async function generateMetadata() {
   return {
-    title: "About Me",
-    description: "Learn more about Samantha and her travel adventures",
+    title: "Kassen Kyocera",
+    description: "Brand Printer Merk Kyocera Made in JAPAN",
     openGraph: {
-      title: "About Me",
-      description: "Learn more about Samantha and her travel adventures",
+      title: "Kassen Kyocera",
+      description: "Brand Printer Merk Kyocera Made in JAPAN",
       images: [
         signOgImageUrl({
-          title: "Samantha",
-          label: "About Me",
+          title: "Kassen Kyocera",
+          label: "Kassen Kyocera",
           brand: config.blog.name,
         }),
       ],
