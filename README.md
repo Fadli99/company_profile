@@ -59,4 +59,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Full documentation on how to get started on wisp as well as this starter kit is available on [wisp's documentation site](https://www.wisp.blog/docs/next-js-blog-starter-kit/overview?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp)
 
-<img width="250" alt="kassen kyocera" src="https://github.com/user-attachments/assets/dab4e885-9279-48a0-a028-62d961c76656">
+![Kassen Kyocera](https://github.com/user-attachments/assets/e87629ce-6530-49c8-81f5-dd78ab4ecd8f)
+
