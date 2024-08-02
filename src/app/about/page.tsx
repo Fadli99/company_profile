@@ -11,6 +11,7 @@ const content = `# About Kassen Kyocera
 Kassen Kyocera merupakan pelopor dalam menyediakan solusi pencetakan serbaguna yang menggabukan kualitas tinggi, teknologi terkini, dan kemudahan penggunaan untuk memenuhi kebutuhan bisnis perusahaan dan pribadi anda. Brand yang kami tawarkan yaitu printer merk Kyocera yang berasal dari JAPAN.
 
 APA YANG KAMI TAWARKAN
+
 Kassen Kyocera mengkhususkan diri dalam [brand printer merk Kyocera, misalnya: "perangkat cetak, solusi pemrosesan dokumen, dan perangkat keras teknologi informasi"]. Produk kami dirancang dengan memadukan teknologi terbaru dengan desain yang ergonomis, memastikan kinerja optimal dan kenyamanan pengguna.
 
 KOMITMEN KAMI
