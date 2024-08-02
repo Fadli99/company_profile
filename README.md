@@ -42,16 +42,6 @@ Wisp is a modern CMS for adding blogs to websites. It features an intuitive, med
 - [TypeScript](https://www.typescriptlang.org/) for type safety
 - Font optimization with [next/font](https://nextjs.org/docs/app/api-reference/components/font)
 
-## Step-by-step Video Tutorial
-
-We've now included a 3-part video tutorial to help you run this blog on your computer:
-
-![3-part Video Tutorial to Launch Nextjs Blog](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/cluqyx1rl0000l5ds3f0vkfer/2a92b7b6-9b11-4e41-8719-bad7be99b912.png/public "3-part Video Tutorial to Launch Nextjs Blog")
-
-- [Part 1: Running the Next JS blog (15 min)](https://www.wisp.blog/docs/next-js-blog-starter-kit/running-blog?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp)
-- [Part 2: Personalizing Your Next.js Blog (15 min)](https://www.wisp.blog/docs/next-js-blog-starter-kit/personalizing-blog?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp)
-- [Part 3: Deploying Your Next.js Blog (15 min)](https://www.wisp.blog/docs/next-js-blog-starter-kit/deploying-blog?utm_source=github&utm_medium=web&utm_campaign=nextjs-blog-cms-wisp)
-
 ## Quick Start Guide
 
 First, install the dependencies:
